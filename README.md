@@ -52,10 +52,12 @@ I am a graduate student deeply invested in advancing **Knowledge Graph Completio
 
 ---
 
+---
+
 ### 📊 GitHub Stats (Updated)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shirou-del&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&icon_color=3399FF&text_color=7A8490" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirou-del&layout=compact&theme=transparent&hide_border=true&title_color=3399FF&text_color=7A8490" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shirou-del&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&icon_color=3399FF&text_color=7A8490" alt="Shirou's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirou-del&layout=compact&theme=transparent&hide_border=true&title_color=3399FF&text_color=7A8490" alt="Shirou's Top Languages" />
+</div>
