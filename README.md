@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=220&section=header&text=SHIROU%20DEL&fontSize=70&fontAlignY=45&animation=twinkling&fontAlign=left&stroke=2A2E3D&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=SHIROU%20DEL&fontSize=70&fontAlignY=45&animation=twinkling&fontAlign=left&stroke=A371F7&strokeWidth=2" />
 </div>
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=03E3FC&left=true&vCenter=true&width=500&lines=Multimodal+KG+Completion;Knowledge+Graph+Reasoner;AI+Research+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=A371F7&left=true&vCenter=true&width=500&lines=Multimodal+KG+Completion;Knowledge+Graph+Reasoner;AI+Research+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
